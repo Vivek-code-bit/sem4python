@@ -18,4 +18,4 @@ Hi, I'm Naman Choudhary and this project simulates the progression of a salary a
 ## Installation
 
 To use the model, you need to have Python installed on your computer. You also need to install the required libraries:
-\nfrom dataclasses import dataclass
+<br>from dataclasses import dataclass
