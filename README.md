@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, I'm Naman Choudhary and this project simulates the progression of a salary and wealth accumulation over time. The model factors in salary growth through promotions, cost-of-living raises, and wealth accumulation via savings and investment returns. It helps estimate how many years it would take to achieve a desired retirement corpus.
+Hi, we're **Vivek Prajapati**, **Arav Patel**, and **Yashraj Dave**, and we've created this project to simulate the progression of salary and wealth accumulation over time. The model factors in salary growth through promotions, cost-of-living raises, and wealth accumulation via savings and investment returns. It helps estimate how many years it would take to achieve a desired retirement corpus.
 
 ## Features:
 - **Dynamic Salary Growth**: Accounts for cost-of-living raises and periodic promotions.
